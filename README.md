@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi dear! I'm Obanubi Joseph 🤓, Data-driven insights meet haute couture. As a data analyst & fashion designer, I merge analytics expertise with creative vision to drive business growth & stylish innovation."
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
